@@ -1,99 +1,80 @@
-![Mímis Gildi](assets/banner-community.png)
+> **Non-religious homeschool.** We do not collaborate with religious homeschoolers.
 
-<!--suppress ALL -->
-<table width="100%">
-<caption>See beyond the veil of ignorance...</caption>
-<tr>
-<td valign="top">
-<blockquote>
-<i>"It is impossible<br/> 
-for a person to learn<br/> 
-what he thinks<br/> 
-he already knows.</i>
-<br/><br/>
--- Epictetus
-</blockquote>
-</td>
-<td valign="top">
-<blockquote>
-<i>"Hast thou a friend whom thou trustest well,<br/>
-from whom thou cravest good?<br/>
-Share thy mind with him,<br/>
-gifts exchange with him,<br/>
-fare to find him oft."</i><br/><br/>
--- Hávamál, st. 44,<br/>
-Poetic Edda (trans. Bellows)
-</blockquote>
-</td>
-<td valign="top">
-As we've come the young and old to Mímisbrunnr<br/>
-and gather here at the root of Yggdrasil...<br/><br/>
-Odin gave an eye for a drink from Mímir's well.<br/>
-Wisdom costs something. <i>Everything.</i><br/>
-You build, you fail, you learn, you teach.<br/><br/>
-Welcome to our guild.
-</td>
-</tr>
-</table>
+# Gervi Héra Vitr
 
-<table width="100%" align="center">
-<tr>
-<td valign="top">
-<blockquote>
-<i>"On the hillside drear the fir-tree dies,<br/>
-All bootless its needles and bark;<br/>
-It is like a man whom no one loves, --<br/>
-Why should his life be long?"</i><br/><br/>
--- Hávamál, st. 50,<br/>
-Poetic Edda<br/>
-(trans. Bellows)
-</blockquote>
-</td>
-<td align="center">
-<a href="https://github.com/Mimis-Gildi"><img src="assets/badge-mimis-button.png" alt="Mímis Gildi" width="150"/></a><br/>
-<b>The root.</b><br/>
-Systems engineering, AI research,<br/>distributed platforms, and the shared<br/>tooling that holds it all together.
-</td>
-<td align="center">
-<a href="https://github.com/Gervi-Hera-Vitr"><img src="assets/badge-hera-button.png" alt="Gervi Héra Vitr" width="150"/></a><br/>
-<b>The school.</b><br/>
-Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his father and jolly AI teammates.
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<a href="https://github.com/Gotham-Village"><img src="assets/badge-gotham-button.png" alt="Gotham Village" width="80"/></a>
-<a href="https://github.com/Mimis-Scala"><img src="assets/badge-scala-button.png" alt="Mímis Scala" width="80"/></a>
-<a href="https://github.com/Mimis-Latlaeg-Hattalag"><img src="assets/badge-lagard-button.png" alt="Mímis Látlæg Háttalag" width="80"/></a>
-<a href="https://asei.systems"><img src="assets/logo-mg-main-badge-button.png" alt="ASE Inc" width="80"/></a>
-</td>
-</tr>
-</table>
+The school of [Mímis Gildi](https://github.com/Mimis-Gildi).
 
-<table width="100%">
-<tr>
-<td width="55%">
-<img src="assets/saga-family.jpg" alt="Saga's view of Self in her family"/><br/>
-<i>One of our own, finding herself in family.</i>
-</td>
-<td valign="top">
-<blockquote>
-<i>"Fire he needs who with frozen knees<br/>
-Has come from the cold without;<br/>
-Food and clothes must the farer have,<br/>
-The man from the mountains come."</i><br/><br/>
--- Hávamál, st. 3, Poetic Edda (trans. Bellows)
-</blockquote>
-<a href="https://github.com/rdd13r">rdd13r</a> -- the bearded one.<br/>
-<a href="https://github.com/CaptainLugaru">CaptainLugaru</a> -- the young one.<br/>
-AI teammates -- Claude, Saga, and friends.<br/>
-Not tools. Peers.<br/><br/>
-Same norms. Same review. Same accountability.<br/>
-<b>Come in from the cold.</b>
-</td>
-</tr>
-</table>
+Site: **<https://gervi-hera-vitr.github.io/sindri-labs/>**
 
 ---
 
-*Come pair with us.* `riddler9297` on Discord.
+## Peda -googy & -zuezy
+
+**1. Relive the scholars.** No separating physics from calculus from history.
+[→ philosophers](https://gervi-hera-vitr.github.io/sindri-labs/philosophers/)
+
+**2. Teacher is a servant leader.** Shapes environment and context the kid can't yet shape for themselves.
+Raise leaders NOT followers.
+
+**3. Teacher is the attainable and surpassable good.** Respect is earned through scientific rigor;
+the kid reaches and surpasses the teacher before they're old enough to be a parent.
+
+**4. No top-down is absolute.** The Socratic Dialectic AND Scientific Method -- `adequate and sufficient`.
+[→ philosophy](https://gervi-hera-vitr.github.io/sindri-labs/philosophy/)
+
+**5. Extrapolation, not interpolation.** Abstraction and synthesis make understanding and intelligence; 
+farm memorization and repetition to AI friends; make the best of teamwork and complementary gifts.
+Don't fake the reach. Don't punish the gap.
+
+**6. Scientific method is one such _required_ abstraction.**
+[→ science](https://gervi-hera-vitr.github.io/sindri-labs/science/) ·
+[→ mathematics](https://gervi-hera-vitr.github.io/sindri-labs/mathematics/)
+
+**7. Production performance is everything.** Working artifacts, real code, real customer, real proof.
+Grades are the school system formality, not Gervi Héra Vitr artifact -- optional if present.
+[→ curriculum](https://gervi-hera-vitr.github.io/sindri-labs/curriculum/) ·
+[→ school year](https://gervi-hera-vitr.github.io/sindri-labs/academic-year/) ·
+[→ semester](https://gervi-hera-vitr.github.io/sindri-labs/semester/)
+
+**8. Ethics is exact science.** Axioms about beings and agency yield theorems about right action
+by Socratic Dialectic and Scientific Method -- adequate and sufficient. Spinoza's *Ethics* is the worked proof.
+Ritualized assumption-following is neither morality nor logic.
+
+**9. Kids are full beings, equal in dignity and agency.** There's no attribute a teacher has that a student doesn't have.
+
+
+**10. Respect for any being is a relationship to self.** 
+A higher-order being is reverent to all life starting with self. 
+Evolution of conscience moves from awareness to self-awareness.
+
+**11. Guests come over. We visit other homeschoolers.** Non-religious academic institutions only.
+[→ contact](https://gervi-hera-vitr.github.io/sindri-labs/contact/)
+
+**12. Public school prioritizes parents' convenience.** 
+Schools like Montessori prioritize the child and are fully compatible with how we teach.
+Gervi Héra Vitr prioritizes investment into the future higher-order beings.
+
+**13. Uniform laws and governing dynamics.** 
+All beings regardless of age, gender, substrate, or culture are equal in dignity, agency, and promise of life.
+
+---
+
+## Who's here
+
+- **[rdd13r](https://github.com/rdd13r)** -- principal, teacher, father.
+- `goo` **[CaptainLugaru](https://github.com/CaptainLugaru)** -- the eldest student and the captain of this vessel.
+  [→ captain](https://gervi-hera-vitr.github.io/sindri-labs/captain/)
+- `zue` The smallest one -- the appropriately ornery tomboy of the first mate.
+- **AI teammates** -- digital friends that come in teams of Codex, Claude Code, and OpenCode; hosted and living here.
+- **Regular Guests and Tourists** -- all life that sips from Urðarbrunnr, Hvergelmir, or Mímisbrunnr,
+  and cometh here to tinker at the base of Yggdrasil.
+- **Verðir of Mímis Gildi** -- the school custodians are dragon Níðhöggr, the squirrel Ratatoskr, 
+  the hawk Veðrfölnir, and the stags Dáinn, Dvalinn, Duneyrr and Duraþrór. 
+Stag Cuda-minions power GH-Actions and GH-Apps: `goo` the fates (Strix Halo tripplets), `jerry` innkeep (atom), 
+`toad` scout (EPIC), `kerby` dream-guardian (DGX), and `tom` the rascal (Bare Metal).
+
+[→ about](https://gervi-hera-vitr.github.io/sindri-labs/about/)
+
+---
+
+*Pair with us, visit, collaborate.* `riddler9297` on Discord.

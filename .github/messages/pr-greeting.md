@@ -1,3 +1,3 @@
-Thanks for contributing to **Mímis Gildi**! 
+Thanks for contributing to **Gervi Héra Vitr**.
 
-Ping `riddler9297` on Discord to get a community invite.
+Ping `riddler9297` on Discord for a community invite.
